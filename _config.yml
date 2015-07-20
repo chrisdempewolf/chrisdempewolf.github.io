@@ -1,6 +1,6 @@
-name: Chris Dempewolf
+name: chris dempewolf
 url: chrisdempewolf.github.io
-description: A blog
+description: 
 
 permalink: /:year/:month/:day/:title/
 paginate: 20
