@@ -1,5 +1,5 @@
 html, body {
-	background-color: #ADAD85;
+	background-color: #dfdfb8;
 	color: #000000;
 }
 
@@ -24,6 +24,13 @@ h1 a:hover {
 	border-color: #eee8d5;
 }
 
+article {
+    background-color: #CFC3AA;
+    border: 1px solid;
+    border-color: 222222;
+    padding: 10px 16px 10px 16px;
+}
+
 article h1 a.anchor {
 	color: #2aa198;
 }
@@ -36,7 +43,9 @@ blockquote {
 }
 
 #footer {
-	border-color: #222222;
+    background-color: #002a35;
+    color: #ffffff;
+    padding: 4px auto 4px auto;
 }
 
 
