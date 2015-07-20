@@ -1,0 +1,12 @@
+name: Chris Dempewolf
+url: chrisdempewolf.github.io
+description: A blog
+
+permalink: /:year/:month/:day/:title/
+paginate: 20
+pygments: true
+safe: true
+timezone: America/Chicago
+encoding: "utf-8"
+port: 4000
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
